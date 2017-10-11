@@ -1,0 +1,2 @@
+# bayes-py
+bayes classificator 
